@@ -1,0 +1,7 @@
+gym
+matplotlib
+numpy
+pytest
+pandas
+scipy
+sklearn
